@@ -119,7 +119,9 @@ Ramas Master:  La rama master es en donde comenzamos a trabajar, es la rama prin
 ### WORKFLOWS (flujo de trabajos) ⌨️
 
 **Workflows :** Es un flujo de trabajo(-Proyectos propios, -Proyectos en equipo, -Proyectos con terceros).
+
 **Proyectos propios :** Somos los dueños, decidimos todo lo que pasa en el repositorio.
+
 **Proyectos en equipo :** Es parecido a trabajar solo, con la excepcion de que habra commits de nuestro equipo.
 
 * **git fetch origin :** Para bajar los cambios que alguien mas realizo en nuestro proyecto, quedan en la rama oculta
