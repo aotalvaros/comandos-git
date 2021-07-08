@@ -1,4 +1,4 @@
--------------- GIT -------
+# COMANDOS GIT
 
 ..commit= Es como guardar un punto de partida, donde se puede regresar a ella.
 -----------------------------------------------------------------------
