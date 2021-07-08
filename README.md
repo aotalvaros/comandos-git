@@ -11,9 +11,9 @@ _Se utilizara los comandos simples para el uso de git.
 _Es como guardar un **punto de partida**, donde se puede regresar a ella.
 
 -----------------------------------------------------------------------
+## Comandos 🔧:
 
---) git init : Este comando marca el inicio del proyecto, monitorea todos los trabajos (se inicia solo una vez, y siempre se debe 
-              incia cuando monitoreamos algun proyecto).
+*  **git init:** Este comando marca el inicio del proyecto, monitorea todos los trabajos (se inicia solo una vez, y siempre se debe incia cuando monitoreamos algun proyecto).
 
 --) git status :Nos dice el estado de nuestro proyecto, nos mostrara que archivos aun no han sido agregados.
 --) git add :Con este comando decimos que archivos estan listos para crear un commit
