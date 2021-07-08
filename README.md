@@ -58,31 +58,31 @@ Ramas Master:  La rama master es en donde comenzamos a trabajar, es la rama prin
 
 * **EJEM:**
 
- * **git branch :** Nos muestra las ramas master que se tienen.(Inicialmente solo se tiene la rama master, y se tiene marcada con * y iluminada porque
+    * **git branch :** Nos muestra las ramas master que se tienen.(Inicialmente solo se tiene la rama master, y se tiene marcada con * y iluminada porque
                es en la que se esta trabajando).
 
- * **git branch "Nombre de la rama" :** Para crear una rama.
- * **git checkout Test :** Nos movemos a nuestra rama con el nombre de "Test". Todos los cambios que se hagan apartir de ahora no se iran a *master, 
+    * **git branch "Nombre de la rama" :** Para crear una rama.
+    * **git checkout Test :** Nos movemos a nuestra rama con el nombre de "Test". Todos los cambios que se hagan apartir de ahora no se iran a *master, 
               Permaneceran en *Test.
 
- * **git branch -d "Nombre de la rama" :** Este comando borra las ramas que no estamos usando.
+    * **git branch -d "Nombre de la rama" :** Este comando borra las ramas que no estamos usando.
           
- * **git merge "Nombre de la rama" :** para fusionar estas ramas.
+    * **git merge "Nombre de la rama" :** para fusionar estas ramas.
 
- * **git branch -a :** se ven las Ramas ocultas 
+    * **git branch -a :** se ven las Ramas ocultas 
 
 ------
 
-### GitHub(Cualquier cliente)
+### GitHub(Cualquier cliente) 📋
 
-* git clone "url" :nos sirve para clonar un proyecto, normalmente, se usa cuando no nos interesa colaborar en el proyecto.
-* git remote add origin "url (del repositorio creado en nuestro GitHub)" : vincula nuestro proyecto local, con nuestro proyecto remoto.
-* git remote -v :Para comprobar que este sicronizado con el repositorio remoto.
-* git remote remove origin :Para quitar lo que acabamos de hacer(la conexion al proyecto en github).
+* **git clone "url" :** nos sirve para clonar un proyecto, normalmente, se usa cuando no nos interesa colaborar en el proyecto.
+* **git remote add origin "url (del repositorio creado en nuestro GitHub)" :** vincula nuestro proyecto local, con nuestro proyecto remoto.
+* **git remote -v :** Para comprobar que este sicronizado con el repositorio remoto.
+* **git remote remove origin :** Para quitar lo que acabamos de hacer(la conexion al proyecto en github).
 
-* git push :Manda nuestros cambios(commits) a GitHub.
-* git push origin master : Mandamos nuestra rama principal "master", cada vez que agregamos un commit tenemos que envialos con este codigo para que se sicronice con github.
-* git push origin master -f :Fuerza a que se suban estos cambios en eñ GitHub(En caso que editamos un commit) 
+* **git push :** Manda nuestros cambios(commits) a GitHub.
+* **git push origin master :** Mandamos nuestra rama principal "master", cada vez que agregamos un commit tenemos que envialos con este codigo para que se sicronice con github.
+* **git push origin master -f :** Fuerza a que se suban estos cambios en eñ GitHub(En caso que editamos un commit) 
 
 
 --++Nota: Cuando subimos un commit a nuestro Github(Remoto), y lo buscamos en gitHub no aparece, ya que se creo otra rama y podemos buscarla en las ramas.
