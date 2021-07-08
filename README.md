@@ -6,7 +6,10 @@ _Se utilizara los comandos simples para el uso de git.
 
 -----------------------------------------------------------------------
 
-..commit= Es como guardar un punto de partida, donde se puede regresar a ella.
+## Commit  
+
+_Es como guardar un **punto de partida**, donde se puede regresar a ella.
+
 -----------------------------------------------------------------------
 
 --) git init : Este comando marca el inicio del proyecto, monitorea todos los trabajos (se inicia solo una vez, y siempre se debe 
