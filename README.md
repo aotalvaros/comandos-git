@@ -98,21 +98,21 @@ Ramas Master:  La rama master es en donde comenzamos a trabajar, es la rama prin
 
 ------
 
-### TAGS(Etiquetas)
+### TAGS(Etiquetas) 📌
 
-.Tags : Son simple puntos especificos en la historia de nuestro proyecto y se usan para marcar alguna version del mismo.
-.Tags anotadas : son almacenadas como objetos completos dentro de la base de Git y contienen mas informacion.
-.Tags ligeras : son otra forma de crear tags, mas simples y con poca informacion.
+**Tags :** Son simple puntos especificos en la historia de nuestro proyecto y se usan para marcar alguna version del mismo.
+**Tags anotadas :** son almacenadas como objetos completos dentro de la base de Git y contienen mas informacion.
+**Tags ligeras :** son otra forma de crear tags, mas simples y con poca informacion.
 
-EJEM:
+* **EJEM:**
 
-* git tag -a V0.11 -m "version 0.11 ....." : Creamos un tag con una version del ultimo commit(V0.11).
+   * **git tag -a V0.11 -m "version 0.11 ....." :** Creamos un tag con una version del ultimo commit(V0.11).
 
-* git tag -a V0.1 -m "version 0.1 ....." 'numero de sha' : Agregamos una version a un commit especifico con el codigo sha.
+   * **git tag -a V0.1 -m "version 0.1 ....." 'numero de sha' :** Agregamos una version a un commit especifico con el codigo sha.
 
-* git push origin V0.11 : Para compartir nuestro tag en el GitHub, con la version 'V0.11'.
+   * **git push origin V0.11 :** Para compartir nuestro tag en el GitHub, con la version 'V0.11'.
 
-* git push origin --tags : Con este comando subimos todos los tags que tenemos, ahorrando la necesidad de subirlos uno por uno.
+   * **git push origin --tags :** Con este comando subimos todos los tags que tenemos, ahorrando la necesidad de subirlos uno por uno.
 
 ------
 
