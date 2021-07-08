@@ -53,22 +53,23 @@ Ramas: Es una linea de tiempo en nuestro proyecto, que sirven para arreglar erro
 
 Ramas Master:  La rama master es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
 ```
+**Fusiones :** Son las creaciones de un commit, juntando una rama con otra, es decir juntar la rama "Test" y la rama "master", y con esto se crea
+          un nuevo commit. (Para hacerlo; primero nos situamos en la rama que va absorver es decir rama "master").
 
-EJEM:
+* **EJEM:**
 
-* git branch : Nos muestra las ramas master que se tienen.(Inicialmente solo se tiene la rama master, y se tiene marcada con * y iluminada porque
+ * **git branch :** Nos muestra las ramas master que se tienen.(Inicialmente solo se tiene la rama master, y se tiene marcada con * y iluminada porque
                es en la que se esta trabajando).
 
-* git branch "Nombre de la rama" :Para crear una rama.
-* git checkout Test : Nos movemos a nuestra rama con el nombre de "Test". Todos los cambios que se hagan apartir de ahora no se iran a *master, 
+ * **git branch "Nombre de la rama" :** Para crear una rama.
+ * **git checkout Test :** Nos movemos a nuestra rama con el nombre de "Test". Todos los cambios que se hagan apartir de ahora no se iran a *master, 
               Permaneceran en *Test.
-* git branch -d "Nombre de la rama" : Este comando borra las ramas que no estamos usando.
 
-.Fusiones: Son las creaciones de un commit, juntando una rama con otra, es decir juntar la rama "Test" y la rama "master", y con esto se crea
-          un nuevo commit. (Para hacerlo; primero nos situamos en la rama que va absorver es decir rama "master")
-* git merge "Nombre de la rama" : para fusionar estas ramas.
+ * **git branch -d "Nombre de la rama" :** Este comando borra las ramas que no estamos usando.
+          
+ * **git merge "Nombre de la rama" :** para fusionar estas ramas.
 
-* git branch -a : se ven las Ramas ocultas 
+ * **git branch -a :** se ven las Ramas ocultas 
 
 ------
 
