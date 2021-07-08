@@ -8,7 +8,8 @@
 
 --) git status :Nos dice el estado de nuestro proyecto, nos mostrara que archivos aun no han sido agregados.
 --) git add :Con este comando decimos que archivos estan listos para crear un commit
-    git add -A : agregamos todos los archivos que se encuentran en esa carpeta. 
+    git add -A : agregamos todos los archivos que se encuentran en esa carpeta.
+--) git add . : agregamos todos los archivos que se encuentran en esa carpeta. 
 
 --) git commit -m "Algun mensaje" : guarda los cambios que se hicieron, con un mensaje que identifique que cambios se hicieron
 --) git log :Nos va dar una lista de nuestros commit. con su autor, fecha, descripcion y codigo sha
