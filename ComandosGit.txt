@@ -49,7 +49,7 @@ EJEM:
 
 --) git branch -a : se ven las Ramas ocultas 
 
-********---- GitHub----*********
+********---- GitHub(Cualquier cliente)----*********
 
 --) git clone "url" :nos sirve para clonar un proyecto, normalmente, se usa cuando no nos interesa colaborar en el proyecto.
 --) git remote add origin "url (del repositorio creado en nuestro GitHub)" : vincula nuestro proyecto local, con nuestro proyecto remoto.
