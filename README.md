@@ -84,10 +84,10 @@ Ramas Master:  La rama master es en donde comenzamos a trabajar, es la rama prin
 * **git push origin master :** Mandamos nuestra rama principal "master", cada vez que agregamos un commit tenemos que envialos con este codigo para que se sicronice con github.
 * **git push origin master -f :** Fuerza a que se suban estos cambios en eñ GitHub(En caso que editamos un commit) 
 
-
---++Nota: Cuando subimos un commit a nuestro Github(Remoto), y lo buscamos en gitHub no aparece, ya que se creo otra rama y podemos buscarla en las ramas.
---++ Nota: Para unir estas ramas en el Github, tenemos que hacerlo primero en el git y luego lo sincronizamos con el Github
-
+```
+**Nota:** Cuando subimos un commit a nuestro Github(Remoto), y lo buscamos en gitHub no aparece, ya que se creo otra rama y podemos buscarla en las ramas.
+**Nota:** Para unir estas ramas en el Github, tenemos que hacerlo primero en el git y luego lo sincronizamos con el Github.
+```
 ------
 
 ### Issues
