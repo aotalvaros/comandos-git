@@ -4,14 +4,15 @@ _ En esta lección aprenderás introducir órdenes a través de una Interfaz de 
 
 _Se utilizara los comandos simples para el uso de git.
 
------------------------------------------------------------------------
+------
 
 ## Commit  
 
 _Es como guardar un **punto de partida**, donde se puede regresar a ella.
 
------------------------------------------------------------------------
-## Comandos 🔧:
+------
+
+### Comandos 🔧:
 
 *  **git init:** Este comando marca el inicio del proyecto, monitorea todos los trabajos (se inicia solo una vez, y siempre se debe incia cuando monitoreamos algun proyecto).
 
@@ -36,8 +37,9 @@ _Es como guardar un **punto de partida**, donde se puede regresar a ella.
 
 --)git commit --amend -m "algo" :Edita el ultimo commit ingresado.
 
+------
 
-********----Ramas y Fusiones---********
+### Ramas y Fusiones
 
 .Ramas: Es una linea de tiempo en nuestro proyecto, que sirven para arreglar errores, experimentar, hacer grandes cambios.
 .Ramas Master: La rama master es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
@@ -58,7 +60,9 @@ EJEM:
 
 --) git branch -a : se ven las Ramas ocultas 
 
-********---- GitHub(Cualquier cliente)----*********
+------
+
+### GitHub(Cualquier cliente)
 
 --) git clone "url" :nos sirve para clonar un proyecto, normalmente, se usa cuando no nos interesa colaborar en el proyecto.
 --) git remote add origin "url (del repositorio creado en nuestro GitHub)" : vincula nuestro proyecto local, con nuestro proyecto remoto.
@@ -73,14 +77,17 @@ EJEM:
 --++Nota: Cuando subimos un commit a nuestro Github(Remoto), y lo buscamos en gitHub no aparece, ya que se creo otra rama y podemos buscarla en las ramas.
 --++ Nota: Para unir estas ramas en el Github, tenemos que hacerlo primero en el git y luego lo sincronizamos con el Github
 
-*********----Issues----*********
+------
+
+### Issues
 
 .Issues: son una forma continuar,mejorar o solucionar un error en nuestro repositorios
 .Milestones: Son grupos de issues que aplican para un proyecto,carateristicas o un periodo de tiempo.
 .Label: son una manera de organizar diferentes tipos de problemas.    
 
+------
 
-******* -----TAGS(Etiquetas)---*******
+### TAGS(Etiquetas)
 
 .Tags : Son simple puntos especificos en la historia de nuestro proyecto y se usan para marcar alguna version del mismo.
 .Tags anotadas : son almacenadas como objetos completos dentro de la base de Git y contienen mas informacion.
@@ -96,8 +103,9 @@ EJEM:
 
 --) git push origin --tags : Con este comando subimos todos los tags que tenemos, ahorrando la necesidad de subirlos uno por uno.
 
+------
 
-********------WORKFLOWS (flujo de trabajos)----*******
+### WORKFLOWS (flujo de trabajos)
 
 .Workflows : Es un flujo de trabajo(-Proyectos propios, -Proyectos en equipo, -Proyectos con terceros).
 .Proyectos propios : Somos los dueños, decidimos todo lo que pasa en el repositorio.
