@@ -46,10 +46,13 @@ _Es como guardar un **punto de partida**, donde se puede regresar a ella.
 
 ------
 
-### Ramas y Fusiones
+### Ramas y Fusiones 📋
 
-.Ramas: Es una linea de tiempo en nuestro proyecto, que sirven para arreglar errores, experimentar, hacer grandes cambios.
-.Ramas Master: La rama master es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
+```
+Ramas: Es una linea de tiempo en nuestro proyecto, que sirven para arreglar errores, experimentar, hacer grandes cambios.
+
+Ramas Master:  La rama master es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
+```
 
 EJEM:
 
