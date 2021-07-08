@@ -90,11 +90,11 @@ Ramas Master:  La rama master es en donde comenzamos a trabajar, es la rama prin
 ```
 ------
 
-### Issues
+### Issues 🛠️
 
-.Issues: son una forma continuar,mejorar o solucionar un error en nuestro repositorios
-.Milestones: Son grupos de issues que aplican para un proyecto,carateristicas o un periodo de tiempo.
-.Label: son una manera de organizar diferentes tipos de problemas.    
+**Issues:** son una forma continuar,mejorar o solucionar un error en nuestro repositorios
+**Milestones:** Son grupos de issues que aplican para un proyecto,carateristicas o un periodo de tiempo.
+**Label** son una manera de organizar diferentes tipos de problemas.    
 
 ------
 
