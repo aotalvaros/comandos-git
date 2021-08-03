@@ -1,14 +1,14 @@
 # COMANDOS GIT
 
-_ En esta lección aprenderás introducir órdenes a través de una Interfaz de Línea de comandos, en lugar de hacerlo en una Interfaz Gráfica de Usuario. La Interfaz de Línea de comandos es útil cuando el usuario necesita un mayor grado de precisión para llevar a cabo su investigación.
+ En esta lección aprenderás introducir órdenes a través de una Interfaz de Línea de comandos, en lugar de hacerlo en una Interfaz Gráfica de Usuario. La Interfaz de Línea de comandos es útil cuando el usuario necesita un mayor grado de precisión para llevar a cabo su investigación.
 
-_Se utilizara los comandos simples para el uso de git.
+ Se utilizara los comandos simples para el uso de git.
 
 ------
 
 ## Commit  
 
-_Es como guardar un **punto de partida**, donde se puede regresar a ella.
+ Es como guardar un **punto de partida**, donde se puede regresar a ella.
 
 ------
 
