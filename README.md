@@ -49,9 +49,11 @@
 ### Ramas y Fusiones 📋
 
 ```
-Ramas: Es una linea de tiempo en nuestro proyecto, que sirven para arreglar errores, experimentar, hacer grandes cambios.
+Ramas: Es una linea de tiempo en nuestro proyecto, 
+que sirven para arreglar errores, experimentar, hacer grandes cambios.
 
-Ramas Master:  La rama master es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
+Ramas Master:  La rama master es en donde comenzamos a trabajar, 
+es la rama principal y estable de nuestro proyecto.
 ```
 **Fusiones :** Son las creaciones de un commit, juntando una rama con otra, es decir juntar la rama "Test" y la rama "master", y con esto se crea
           un nuevo commit. (Para hacerlo; primero nos situamos en la rama que va absorver es decir rama "master").
