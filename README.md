@@ -58,7 +58,7 @@ es la rama principal y estable de nuestro proyecto.
 **Fusiones :** Son las creaciones de un commit, juntando una rama con otra, es decir juntar la rama "Test" y la rama "master", y con esto se crea
           un nuevo commit. (Para hacerlo; primero nos situamos en la rama que va absorver es decir rama "master").
 
-* **EJEM:**
+* **EJEMPLO:**
 
     * **git branch :** Nos muestra las ramas master que se tienen.(Inicialmente solo se tiene la rama master, y se tiene marcada con * y iluminada porque
                es en la que se esta trabajando).
@@ -108,7 +108,7 @@ es la rama principal y estable de nuestro proyecto.
 **Tags anotadas :** son almacenadas como objetos completos dentro de la base de Git y contienen mas informacion.
 **Tags ligeras :** son otra forma de crear tags, mas simples y con poca informacion.
 
-* **EJEM:**
+* **EJEMPLO:**
 
    * **git tag -a V0.11 -m "version 0.11 ....." :** Creamos un tag con una version del ultimo commit(V0.11).
 
